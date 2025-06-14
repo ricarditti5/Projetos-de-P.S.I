@@ -1,0 +1,10 @@
+prologe linguagem para IA
+	FACTORIAL: recursivo e iterativo
+ algoritmo do factorial_recursivo:	f(num) se(num==1)
+						{
+						res=1
+						}
+						senao 
+							{
+							f=(num-1)*num
+							}

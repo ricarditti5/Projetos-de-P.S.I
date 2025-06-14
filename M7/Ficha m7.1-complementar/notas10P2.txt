@@ -1,0 +1,4 @@
+Ana 10
+Joaquim 20
+Sofia 19
+Rui 7

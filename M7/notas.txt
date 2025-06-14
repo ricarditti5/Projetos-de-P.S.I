@@ -1,0 +1,5 @@
+Ana	12
+Pedro	8
+José	14
+Marta 	7
+Joana	16
