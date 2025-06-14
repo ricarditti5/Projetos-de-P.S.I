@@ -113,7 +113,7 @@ Este repositório representa o trabalho académico desenvolvido durante o curso.
 ## 📄 Licença
 
 Este projeto é desenvolvido para fins educacionais. Consulte os termos de uso da instituição de ensino.
-Caso queira usá-lo para benefício pessoal contacte-me primeiro através das ferramentas do github ou pelo discord: ##ricarditti
+Caso queira usá-lo para benefício pessoal contacte-me primeiro através das ferramentas do github ou pelo discord: ricarditti
 
 ## 📞 Contacto
 
